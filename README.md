@@ -1,15 +1,3 @@
-# Bot Specifiation Requirement
-## Minimum     : 
-CPU         : Any 64Bit Based CPU <br>
-GPU         : Anything as long as it can show up in monitor <br>
-RAM         : (Optional) <br>
-STORAGE     : Anything that fit nodejs <br>
-## Recommended : 
-CPU         : CPU That has 9999+ Core <br>
-GPU         : GPU That can render a CLI <br>
-RAM         : 68999 GiB of RAM <br>
-STORAGE     : Storage that has 79000MB/s transfer speed <br>
-
 # Introduction to Node.js
 Node.js is an open-source and cross-platform JavaScript runtime environment. It is a popular tool for almost any kind of project!
 
@@ -25,7 +13,23 @@ Node.js has a unique advantage because millions of frontend developers that writ
 
 In Node.js the new ECMAScript standards can be used without problems, as you don't have to wait for all your users to update their browsers - you are in charge of deciding which ECMAScript version to use by changing the Node.js version, and you can also enable specific experimental features by running Node.js with flags.
 
-# Tutorial Penggunaan
+# How To Use
+// I assume you already isntalled node js, if not go to https://nodejs.org/en/download //<br>
+Open terminal, type : "npm install whatsapp-web.js" wait until the installation is complete, and type "npm i qrcode-terminal". Wait until the installation is finished. <br>
+Open your file directory where the "botwamain.js" is saved from the terminal and type this : <br>
+"node *yourfilename(botwamain.js by default)*" <br>
+Scan the qr code until the message "server side ready" <br>
+## NOTE
+Do not run the file from an IDE *eg vscode*. run it directly from the nodejs
 
-bot whatsapp dengan extention whatsapp-web.js dan qrcode-terminal
-taruh smua file dalam satu folder, lalu di runnya jangan lewat IDE yh, jalaninnya lewat nodejs di terminal wak
+# Bot Specifiation Requirement
+## Minimum     : 
+CPU         : Any 64Bit Based CPU <br>
+GPU         : Anything as long as it can show up in monitor <br>
+RAM         : (Optional) <br>
+STORAGE     : Anything that fit nodejs <br>
+## Recommended : 
+CPU         : CPU That has 9999+ Core <br>
+GPU         : GPU That can render a CLI <br>
+RAM         : 68999 GiB of RAM <br>
+STORAGE     : Storage that has 79000MB/s transfer speed <br>
