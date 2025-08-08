@@ -14,7 +14,7 @@ Node.js has a unique advantage because millions of frontend developers that writ
 In Node.js the new ECMAScript standards can be used without problems, as you don't have to wait for all your users to update their browsers - you are in charge of deciding which ECMAScript version to use by changing the Node.js version, and you can also enable specific experimental features by running Node.js with flags.
 
 # How To Use
-// I assume you already isntalled node js, if not go to https://nodejs.org/en/download //<br>
+// I assume you already installed node js, if not go to https://nodejs.org/en/download //<br>
 Open terminal, type : "npm install whatsapp-web.js" wait until the installation is complete, and type "npm i qrcode-terminal". Wait until the installation is finished. <br>
 Open your file directory where the "botwamain.js" is saved from the terminal and type this : <br>
 "node *yourfilename(botwamain.js by default)*" <br>
