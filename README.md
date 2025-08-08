@@ -18,7 +18,8 @@ In Node.js the new ECMAScript standards can be used without problems, as you don
 Open terminal, type : "npm install whatsapp-web.js" wait until the installation is complete, and type "npm i qrcode-terminal". Wait until the installation is finished. <br>
 Open your file directory where the "botwamain.js" is saved from the terminal and type this : <br>
 "node *yourfilename(botwamain.js by default)*" <br>
-Scan the qr code until the message "server side ready" <br>
+Scan the qr code and wait for the message "server side ready" <br>
+**server side ready means the bot is ready to use**
 ## NOTE
 Do not run the file from an IDE *eg vscode*. run it directly from the nodejs
 
