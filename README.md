@@ -1,10 +1,10 @@
 # Bot Specifiation Requirement
-Minimum     :
+## Minimum     : 
 CPU         : Any 64Bit Based CPU
 GPU         : Anything as long as it can show up in monitor
 RAM         : (Optional)
 STORAGE     : Anything that fit nodejs
-Recommended :
+## Recommended :
 CPU         : CPU That has 9999+ Core
 GPU         : GPU That can render a CLI
 RAM         : 68999 GiB of RAM
