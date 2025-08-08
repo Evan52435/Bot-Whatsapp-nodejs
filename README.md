@@ -1,14 +1,14 @@
 # Bot Specifiation Requirement
 ## Minimum     : 
 CPU         : Any 64Bit Based CPU <br>
-GPU         : Anything as long as it can show up in monitor
-RAM         : (Optional)
-STORAGE     : Anything that fit nodejs
-## Recommended :
-CPU         : CPU That has 9999+ Core
-GPU         : GPU That can render a CLI
-RAM         : 68999 GiB of RAM
-STORAGE     : Storage that has 79000MB/s transfer speed
+GPU         : Anything as long as it can show up in monitor <br>
+RAM         : (Optional) <br>
+STORAGE     : Anything that fit nodejs <br>
+## Recommended : 
+CPU         : CPU That has 9999+ Core <br>
+GPU         : GPU That can render a CLI <br>
+RAM         : 68999 GiB of RAM <br>
+STORAGE     : Storage that has 79000MB/s transfer speed <br>
 
 # Introduction to Node.js
 Node.js is an open-source and cross-platform JavaScript runtime environment. It is a popular tool for almost any kind of project!
